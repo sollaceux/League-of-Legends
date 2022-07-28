@@ -1,5 +1,5 @@
 <h1 align="center"> # League-of-Legends </h1>
-![jinx-telalol](https://user-images.githubusercontent.com/108020095/181602453-44aca85b-0f65-4d99-b866-e48ea004e5f2.png)
+[(https://user-images.githubusercontent.com/108020095/181602453-44aca85b-0f65-4d99-b866-e48ea004e5f2.png)]
 
 
 Tela de login do jogo League of Legends feito por mim. 🌸  
