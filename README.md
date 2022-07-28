@@ -3,9 +3,8 @@
 
 
 
-Tela de login do jogo League of Legends feito por mim. 🌸  
 
 
 # Descrição do Projeto
-Criado com o intuito de praticar CSS e Javascript, feito após o assistir o how to no canal do youtube. (cc: youtube/manual do dev)
+Tela de login do jogo League of Legends feito por mim. Criado com o intuito de praticar CSS e Javascript. (cc: youtube/manual do dev) 🌸
 
